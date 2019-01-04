@@ -78,7 +78,7 @@ To be added
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/uenian33/360_object_detection_dataset/blob/master/LICENSE) file for details
 
 ### Citation
 * Please cite our paper if you find this work is useful.
