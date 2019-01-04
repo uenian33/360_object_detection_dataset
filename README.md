@@ -59,7 +59,8 @@ It contained three types of the ground truth: BFOV (Bounding FOV), BBox(Bounding
 * To visualize the BBOX annotation, some traditional annotation tools are needed (e.g: https://github.com/tzutalin/labelImg)
 * To visualize the BFOV annotation, use the tool in folder "/visualize tool" (open the web browser and load the image and XML file)
 
-[![Dataset visualization](https://i.ytimg.com/vi/FTnfsmgwdQA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDYW5LZ_FIsuFIcx3a7CzH7nFeVzA)](https://www.youtube.com/watch?v=FTnfsmgwdQA)
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
 
 ### Annotation tool
 
