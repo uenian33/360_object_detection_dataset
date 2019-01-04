@@ -4,7 +4,7 @@
 
 This repository contains following contents:
 * the dataset collected and used in "Object Detection in Equirectangular Panorama"
-* the evluation code (to be added)
+* the evaluation code (to be added)
 * the comparison experiment results
 * the annotation tool
 
