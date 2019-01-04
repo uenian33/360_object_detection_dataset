@@ -1,6 +1,4 @@
-# Project Title
-
-Object Detection dataset for 360 images
+# Object Detection dataset for 360 images
 
 ## Contents
 
