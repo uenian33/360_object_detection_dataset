@@ -15,6 +15,7 @@ International Conference on Pattern Recognition (ICPR) 2018
 ### Dataset
 
 Downloads: [link](https://www.dropbox.com/s/skxqj94rno9ihjq/360-Dataset.zip?dl=0)
+Slides: [link](https://1drv.ms/p/s!AjxmjW9wZcKxhWRqnijhIGrST0OC)
 
 It contained three types of the ground truth: BFOV (Bounding FOV), BBox(Bounding box) and 3d-container frame. 
 
