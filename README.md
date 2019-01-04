@@ -21,12 +21,12 @@ It contained three types of the ground truth: BFOV (Bounding FOV), BBox(Bounding
 
 * BFOV (path: 360-Dataset/bbx-annotations/*)
 ```
-<BFOV> 
-	<center_lon> // centre's longitude
-	<center_lat> // centre's latitude
-	<bfov_w> // the width's radius
-	<bfov_h> //  the height's radius
-</BFOV> 
+<bndbox>
+	<xmin>
+	<ymin>
+	<xmax>
+	<ymax>
+</BBOX> 
 ```
 
 * BFOV (path: 360-Dataset/bfov-annotations/*)
