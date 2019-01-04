@@ -11,9 +11,9 @@ This repository contains following contents:
 ## Paper
 Object Detection in Equirectangular Panorama
 
-Wenyan Yang, Yanlin Qian, Joni-Kristian Kämäräinen Francesco Cricri, Lixin Fan
+Wenyan Yang<sup>\*</sup>, Yanlin Qian<sup>\*</sup>, Joni-Kristian Kämäräinen<sup>\*</sup>, Francesco Cricri<sup>\*</sup>, Lixin Fan<sup>\*</sup>
 
-International Conference on Pattern Recognition (ICPR) 2018
+*International Conference on Pattern Recognition (ICPR) 2018*
 
 ### Dataset
 
