@@ -20,7 +20,7 @@ Wenyan Yang<sup>\*</sup>, Yanlin Qian<sup>\*</sup>, Joni-Kristian Kämäräinen<
 Downloads: [link](https://www.dropbox.com/s/skxqj94rno9ihjq/360-Dataset.zip?dl=0)
 Slides: [link](https://1drv.ms/p/s!AjxmjW9wZcKxhWRqnijhIGrST0OC)
 
-It contained three types of the ground truth: BFOV (Bounding FOV), BBox(Bounding box) and 3d-container frame. 
+It containes three types of the ground truth: BFOV (Bounding FOV), BBox(Bounding box) and 3D-Container frame. 
 
 * BFOV (path: 360-Dataset/bbx-annotations/*)
 ```
