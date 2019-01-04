@@ -1,4 +1,4 @@
-# Object Detection dataset for 360 images
+# Panoramic Object Detection Dataset 
 
 ## Contents
 
