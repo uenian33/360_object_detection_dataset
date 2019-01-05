@@ -61,7 +61,9 @@ It containes three types of the ground truth: BFOV (Bounding FOV), BBox(Bounding
 
 ### Visualization
 <div align="center">
-  <img src="https://img.youtube.com/vi/FTnfsmgwdQA/0.jpg" width="600px" />
+  <a href="https://www.youtube.com/watch?v=FTnfsmgwdQA">
+	  <img src="https://img.youtube.com/vi/FTnfsmgwdQA/0.jpg" width="600px" />
+  </a>
 </div>
 
 Youtube: [link](https://www.youtube.com/watch?v=FTnfsmgwdQA)
