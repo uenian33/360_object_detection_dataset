@@ -60,7 +60,10 @@ It containes three types of the ground truth: BFOV (Bounding FOV), BBox(Bounding
 ```
 
 ### Visualization
-[![Dataset visualization](https://img.youtube.com/vi/FTnfsmgwdQA/0.jpg)](https://www.youtube.com/watch?v=FTnfsmgwdQA "Data visualization")
+<div align="center">
+  <img src="https://img.youtube.com/vi/FTnfsmgwdQA/0.jpg" width="600px" />
+</div>
+[Dataset visualization](https://www.youtube.com/watch?v=FTnfsmgwdQA "Data visualization")
 * To visualize the BBOX annotation, some traditional annotation tools are needed (e.g: https://github.com/tzutalin/labelImg)
 * To visualize the BFOV annotation, use the tool in folder "/visualize_tool" (open the web browser and load the image and XML file)
 
